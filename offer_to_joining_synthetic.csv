@@ -1,0 +1,13 @@
+weeks_inactive_on_plan,confirmations_sent,confirmations_replied,deferrals,employer_silence_days,other_offers,modules_completed,joined
+0,0,0,0,1,0,4,1
+1,1,1,0,2,0,3,1
+2,2,1,0,5,1,3,1
+5,3,1,1,10,1,2,1
+8,3,0,1,15,2,1,0
+10,4,0,2,20,3,0,0
+6,2,0,1,12,2,1,0
+0,1,1,0,1,0,4,1
+3,2,2,0,4,1,3,1
+12,4,0,2,25,3,0,0
+7,3,1,1,18,2,1,0
+9,4,1,2,22,3,0,0
